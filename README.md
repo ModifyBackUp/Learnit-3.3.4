@@ -19,3 +19,4 @@
 "Button": "پـیـوسـتـن",
 "ButtonCancell": "بـعـدا",
 "Show": "on"
+}
